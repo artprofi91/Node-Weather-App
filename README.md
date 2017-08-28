@@ -35,7 +35,7 @@ Click [here](https://github.com/artprofi91/Node-Weather-App) then download the .
 > npm install
 ```
 
-### app-promise.js vs app.js
+## app-promise.js vs app.js
 * app-promise.js
    * ES6 Promises to chain asynchronous requests
    * Code is easier to maintain (not nesting a ton of callbacks to achieve the same result)
