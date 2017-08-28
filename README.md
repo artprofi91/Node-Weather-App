@@ -1,4 +1,7 @@
 # Node-Weather-App
+One of my short term goals is to be proficient in Node.js and to achieve this goal I subscribed to the ([Udemy course by Andrew Mead](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview)).
+The best way to learn Node is by building Node apps.
+
 A weather application that lets you input an address to retrieve the weather. For this app I used NPM Packages (colors, yargs, axios(app-promise.js), request (app.js)) and API's (Google Maps and Darksky).
 
 ## How app works
