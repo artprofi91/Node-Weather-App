@@ -8,7 +8,7 @@ I created the weather application that lets you input an address to retrieve the
 ### Help
 Access help by using the `--help` or `-h` flag
 ```
-node app.js --help   or   node app-promise.js --help
+> node app.js --help   or   node app-promise.js --help
 ```
 
 ![1](https://user-images.githubusercontent.com/28790452/29786379-91c77774-8bf0-11e7-8095-b298aa5248d3.gif)
